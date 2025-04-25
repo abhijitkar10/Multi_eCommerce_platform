@@ -1,0 +1,1 @@
+// Removed fetchSaleProducts utility function as per the suggestion.

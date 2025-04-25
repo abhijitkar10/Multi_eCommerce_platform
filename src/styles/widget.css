@@ -1,0 +1,6 @@
+.elfsight-widget {
+  position: fixed !important; /* Force fixed positioning */
+  z-index: 9999;   /* Set a high z-index */
+  bottom: 20px; /* Adjust as needed */
+  right: 20px;  /* Adjust as needed */
+}
